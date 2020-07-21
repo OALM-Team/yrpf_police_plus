@@ -1,0 +1,11 @@
+{
+    "author": "Yuki",
+    "version": "1.0",
+    "server_scripts": [
+        "sv/sv_police.lua"
+    ],
+    "client_scripts": [
+    ],
+    "files": [
+    ]
+  }
