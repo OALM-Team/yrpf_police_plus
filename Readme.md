@@ -1,4 +1,4 @@
-# Alcohol for YRPF
+# Police Plus for YRPF
 This package is a YRPF compatible only package.  
 The package provide more tools for the police
 
